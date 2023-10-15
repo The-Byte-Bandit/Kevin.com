@@ -258,7 +258,7 @@ a:active {
 
 .contact_me div p{
   line-height: 1.2;
-  font-size: 18px;
+  font-size: 15px;
 
 }
 
@@ -1092,8 +1092,7 @@ section#intro {
 
 .featured_projects .project-description{
   /* background-color: #20202c;  */
-  font-size: 15px;
-  font-weight:480;
+  font-size: 13px;
   padding: 1rem 0; 
   /* min-height: 7rem; */
   width: unset;
@@ -1131,7 +1130,7 @@ ul {
   }
 
   #about p {
-    font-size: 11px;
+    font-size: 12.5px;
   }
 
   #about {
