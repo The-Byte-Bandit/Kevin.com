@@ -258,7 +258,7 @@ a:active {
 
 .contact_me div p{
   line-height: 1.2;
-  font-size: 15px;
+  font-size: 14px;
 
 }
 
@@ -1094,6 +1094,7 @@ section#intro {
   /* background-color: #20202c;  */
   font-size: 13px;
   padding: 1rem 0; 
+  letter-spacing: -.3px;
   /* min-height: 7rem; */
   width: unset;
 
